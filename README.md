@@ -28,7 +28,7 @@ Our primary goals are to:
 - Create a platform where members can share ideas, gaining valuable motivation and inspiration.
 
 ## 3. Weekly Meetings
-We hold weekly sessions lasting 30 minutes to an hour, where each member present research updates / interesting topics. Currently, we start with a group of 4 members. Schedules are managed through our [Notion]([https://](https://www.notion.so/VEKKI-13160e324e6f80d78173daa7e9a66960?cookie_sync_completed=true)) page for easy coordination.
+We hold weekly sessions lasting 30 minutes to an hour, where each member present research updates / interesting topics. Currently, we start with a group of 4 members. Schedules are managed through our [Notion](https://www.notion.so/VEKKI-13160e324e6f80d78173daa7e9a66960?cookie_sync_completed=true) page for easy coordination.
 
 ## 4. Resources and Weekly Summaries
 Any notebooks, tutorials, or other resources developed through our discussions will be shared here for group access. Each week, we’ll include a brief summary (2-3 sentences) of the topics discussed and progress made. 
